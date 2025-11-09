@@ -7,8 +7,7 @@ Andromeda ecnh-vpn-plugin Solution 0.0001
 
 <img width="1515" height="635" alt="image" src="https://github.com/user-attachments/assets/7d3b6015-5753-4520-8225-9c4e503ff25c" />
 
-
-
+earth CNH = eCNH,
 
 eCNH VPN Browser Plugin Solution
 
