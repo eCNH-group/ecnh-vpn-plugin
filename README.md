@@ -5,6 +5,11 @@ Andromeda ecnh-vpn-plugin Solution 0.0001
 
 <img width="1506" height="916" alt="image" src="https://github.com/user-attachments/assets/5f2c5bf9-8f3d-45ee-8cda-a62a96071c60" />
 
+<img width="1515" height="635" alt="image" src="https://github.com/user-attachments/assets/7d3b6015-5753-4520-8225-9c4e503ff25c" />
+
+
+
+
 eCNH VPN Browser Plugin Solution
 
 Andromeda 1 eCNH ≈ 0.1353-0.1463 USDC ≈ 1 CNH
