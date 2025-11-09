@@ -26,4 +26,11 @@ https://www.orca.so/pools/BHf1yCvj6qh2E1y2JLrjesP7RRC8XjBN3FyHeq45LnBZ
 
 
 
+------
+
+Dedicated eCNH account for the VPN plugin.
+
+
+https://solscan.io/account/CAQyWd5Q4BMhZCMpcyAt1P4AUBC7xUapdRMYjeVkYkAp 
+
 
